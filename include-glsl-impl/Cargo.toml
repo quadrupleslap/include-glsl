@@ -1,0 +1,15 @@
+[package]
+name = "include-glsl-impl"
+version = "0.1.0"
+authors = ["Ram Kaniyur <quadrupleslap@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+proc-macro-hack = "0.5.11"
+proc-macro2 = "1.0.7"
+quote = "1.0.2"
+shaderc = "0.6.1"
+syn = "1.0.13"

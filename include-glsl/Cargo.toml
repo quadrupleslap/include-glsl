@@ -1,0 +1,9 @@
+[package]
+name = "include-glsl"
+version = "0.1.0"
+authors = ["Ram Kaniyur <quadrupleslap@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+include-glsl-impl = "0.1.0"
+proc-macro-hack = "0.5.11"
