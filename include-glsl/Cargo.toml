@@ -1,5 +1,8 @@
 [package]
 name = "include-glsl"
+description = "Include a GLSL shader as a byte string."
+repository = "https://github.com/quadrupleslap/include-glsl.git"
+license = "MIT"
 version = "0.1.0"
 authors = ["Ram Kaniyur <quadrupleslap@gmail.com>"]
 edition = "2018"
